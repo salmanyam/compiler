@@ -1,0 +1,20 @@
+var u,a,b,v,w,z,d,e,f : integer ;
+begin
+a:=12;
+
+if b>5 then
+b:=10;
+
+c:=a+b;
+d:=a+c;
+
+if x=4 then
+e:=c*d;
+
+if u<v then
+m:=m*n;
+
+n:=u*v;
+
+a:=c*d;
+end
